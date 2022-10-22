@@ -1,0 +1,4 @@
+El esquema de colores es asi: 
+Gris: #4B4B4B
+Negro: #000000
+Blanco: #FFFFFF
