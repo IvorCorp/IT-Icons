@@ -1,5 +1,5 @@
 # IT-Icons
-IvorTech public icons library
+IvorTech Open-Source icons library
 
 # Usage
 Currently, the only way to use IT Icons is downloading the images and linking it to your webpage but we are working on making it easier!
@@ -8,3 +8,7 @@ Currently, the only way to use IT Icons is downloading the images and linking it
 Gray: #4B4B4B <br>
 Black: #000000 <br>
 White: #FFFFFF
+
+# Contributors
+Actually, there are no contributors but if you want, you can contribute.
+
